@@ -1,5 +1,5 @@
 # sindrome_gripal
-Este repositório contém uma análise de dados de notificações de casos de COVID-19.
+Este repositório contém uma análise de dados de notificações de casos suspeitos de COVID-19.
 Este é um desafio da empresa Varsomics, afiliada ao Hospital Israelita Albert Einstein, e o objetivo é explorar e extrair insights a partir de um conjunto de dados extraido da API OpenDataSUS.
 Os arquivos presentes neste repositório incluem:
 
